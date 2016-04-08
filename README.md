@@ -1,2 +1,2 @@
-# jmp-in-java
-Java Multi-thread Programming Example Code
+# jmdp-in-java
+Java Multi-thread Design Pattern Example Code

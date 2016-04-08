@@ -17,3 +17,6 @@ gradle-app.setting
 
 # Intellij build folder
 out/
+
+# IDE stuff
+.idea/
