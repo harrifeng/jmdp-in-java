@@ -3,8 +3,8 @@ package org.hfeng.part1.ex02;
 public class Main {
     public static void main(String[] args) {
         ////////////////////////////////////////////////////////
-        // Thread implements Runable                          //
-        // PrintThread also implements Runable                //
+        // Thread implements Runnable                         //
+        // PrintThread also implements Runnable               //
         // So Thread and PrintThread are the same level       //
         // However, only Thread class has the start function  //
         // So, you have to instance a Thread with PrintThread //
