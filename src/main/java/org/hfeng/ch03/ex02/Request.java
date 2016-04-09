@@ -1,4 +1,4 @@
-package org.hfeng.ch03;
+package org.hfeng.ch03.ex02;
 
 public class Request {
     private final String name;

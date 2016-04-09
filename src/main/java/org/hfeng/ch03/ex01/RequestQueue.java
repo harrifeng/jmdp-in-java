@@ -1,4 +1,4 @@
-package org.hfeng.ch03;
+package org.hfeng.ch03.ex01;
 
 import java.util.LinkedList;
 
