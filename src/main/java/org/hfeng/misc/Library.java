@@ -1,4 +1,4 @@
-package org.hfeng.test;
+package org.hfeng.misc;
 
 public class Library {
     public boolean someLibraryMethod() {

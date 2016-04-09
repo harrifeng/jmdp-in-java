@@ -1,4 +1,4 @@
-package org.hfeng.test;
+package org.hfeng.misc;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
