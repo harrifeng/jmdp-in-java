@@ -20,3 +20,6 @@ out/
 
 # IDE stuff
 .idea/
+
+# tmp data file
+*.txt
