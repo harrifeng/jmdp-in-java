@@ -13,7 +13,7 @@ public class Table {
         this.count = 0;
     }
 
-    public synchronized void put(String cake) throws InterruptedException{
+    public synchronized void put(String cake) throws InterruptedException {
         System.out.println(Thread.currentThread().getName() + " puts " + cake);
         System.out.println("Current count is: " + count);
         while (count >= buffer.length) {
